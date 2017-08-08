@@ -1,0 +1,1 @@
+<m id="c78d035e-bb4b-4ffa-90b6-15b05f929544" c="exe" dm="1" n="Stanford Core NLP Linguistic Analysis" d="Stanford Core NLP Linguistic Analysis" v="3.9" i="run.cmd {in:LESDiffReport:input1} {in:GenericTSV:input2} (workerID) {out:GenericTSV:output1} (workersPerMachine)" s="0" l="" e="" u="" t="" da="6/2/2014 11:10:23 PM" o="FAREAST\gmanish" pm=""/>
